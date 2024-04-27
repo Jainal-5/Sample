@@ -90,6 +90,7 @@ background-color: #3d3f42;
   text-align: center;
   align-items: center;
   transition: transform 0.4s;
+  justify-content: center;
 }
 
 .close-note{
